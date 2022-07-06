@@ -1,5 +1,5 @@
 const nameGirl = 'bạn Thư xinh đẹp';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.facebook.com/minhthu.haha';
 const eventName = 'hộp quà bí mật tặng cho';
 const titleCard = 'Happy Birthday bạn Thư xinh đẹp';
 const contentCard = 'Chúc bạn Thư ngày càng học giỏi, mau ăn chóng lớn và ngày càng xinh đẹp nhé :3';
